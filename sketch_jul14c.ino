@@ -818,4 +818,4 @@ void drawAbout() {
   display.drawString(20,44,"Version 1.6");
   display.drawString(10,54,currentDate);
   display.display();
-}
+••••}
