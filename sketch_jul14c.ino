@@ -1,6 +1,6 @@
 /*
 UNIVERSAL SMART GATEWAY (USG) Version : 1.6 Icons + Graph
-Developer : Ndegwa Chidoti
+D+254752683341eveloper : Ndegwa Chidoti
 Hardware : Heltec WiFi LoRa 32 V3
 Board: "Heltec WiFi LoRa 32(V3)" in Arduino IDE
 Libs: ESP32 by Espressif, SSD1306 by Daniel Eichhorn
